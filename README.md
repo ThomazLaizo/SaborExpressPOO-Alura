@@ -1,4 +1,4 @@
-# 🍽️ Sabor Express OO
+# 🍽️ Sabor Express POO
 
 Versão do **Sabor Express** reescrita com **Programação Orientada a Objetos**, desenvolvida em Python durante o curso da Alura. O sistema modela restaurantes, avaliações de clientes e um cardápio com diferentes tipos de item (prato, bebida e porção), cada um com sua própria regra de desconto.
 
@@ -6,7 +6,7 @@ Versão do **Sabor Express** reescrita com **Programação Orientada a Objetos**
 ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
 ![POO](https://img.shields.io/badge/paradigma-POO-blueviolet)
 ![Terminal](https://img.shields.io/badge/interface-terminal-black?logo=windowsterminal&logoColor=white)
-![Linguagem principal](https://img.shields.io/github/languages/top/ThomazLaizo/oo-saborExpress)
+![Linguagem principal](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
 
 > 🔗 Existe também a [versão procedural do Sabor Express](https://github.com/ThomazLaizo/SaborExpress-Alura), feita com menu interativo no terminal. Este projeto foca na modelagem com classes.
 
